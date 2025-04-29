@@ -1,2 +1,2 @@
 link
-https://colab.research.google.com/drive/1tih-zcYAKpUm2zzzfADDq_AIgnoZHKlD?usp=drive_link
+https://colab.research.google.com/drive/1tih-zcYAKpUm2zzzfADDq_AIgnoZHKlD?usp=sharing
